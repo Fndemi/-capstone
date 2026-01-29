@@ -216,7 +216,7 @@ This project is created for academic purposes as part of a university capstone r
 ## Contact
 
 **Florence Ndemi**
-- Email: florence.ndemi@student.dkut.ac.ke
+- Email: your.email@example.com
 - LinkedIn: linkedin.com/in/florence-ndemi
 - University: Dedan Kimathi University of Technology, Information Technology Department
 - Location: Nyeri County, Kenya
