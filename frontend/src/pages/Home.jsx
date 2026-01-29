@@ -139,7 +139,7 @@ const Home = () => {
     {
       title: "Digital Innovation Portfolio",
       content: "Transforming Ideas into Technology Solutions for Africa",
-      subtitle: "Florence Ndemi | IT Graduate 2025 | Blockchain & Cultural Technology Advocate"
+      subtitle: "Florence Ndemi | Blockchain & Cultural Technology Advocate"
     },
     {
       title: "Bridging Technology and Culture", 
@@ -149,7 +149,7 @@ const Home = () => {
     {
       title: "Technology Meets Tradition",
       content: "Building Digital Solutions Rooted in African Values", 
-      subtitle: "Class of 2025 | Innovation Through Cultural Understanding"
+      subtitle: "Innovation Through Cultural Understanding"
     }
   ];
   

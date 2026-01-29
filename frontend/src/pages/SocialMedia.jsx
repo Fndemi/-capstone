@@ -66,7 +66,9 @@ const getPlatformColor = (platform) => {
     github: '#333333',
     twitter: '#1da1f2',
     medium: '#00ab6c',
-    stackoverflow: '#f48024'
+    stackoverflow: '#f48024',
+    whatsapp: '#25d366',
+    instagram: '#e4405f'
   };
   return colors[platform] || '#666';
 };
@@ -77,7 +79,9 @@ const getPlatformIcon = (platform) => {
     github: '💻',
     twitter: '🐦',
     medium: '📝',
-    stackoverflow: '💡'
+    stackoverflow: '💡',
+    whatsapp: '💬',
+    instagram: '📸'
   };
   return icons[platform] || '🌐';
 };
@@ -106,6 +110,22 @@ const SocialMedia = () => {
       title: 'Twitter/X Profile',
       description: 'Tech industry discussions, thought leadership, and community engagement. Sharing insights on technology trends.',
       url: 'https://x.com/FlorenceNd87254',
+      status: 'Active'
+    },
+    {
+      id: 4,
+      platform: 'whatsapp',
+      title: 'WhatsApp Business',
+      description: 'Direct communication for professional inquiries and collaboration opportunities. Quick response for business matters.',
+      url: 'https://wa.me/254799465754',
+      status: 'Active'
+    },
+    {
+      id: 5,
+      platform: 'instagram',
+      title: 'Instagram Profile',
+      description: 'Visual storytelling of tech journey, behind-the-scenes content, and lifestyle. Showcasing the human side of technology.',
+      url: 'https://www.instagram.com/flo_ndemi?igsh=bjg0Z2phN3llaWh2',
       status: 'Active'
     }
   ];

@@ -147,6 +147,29 @@ export class MediaService {
         url: 'https://wa.me/254712345678',
         platform: 'whatsapp',
         order: 7
+      },
+
+      // Videos
+      {
+        type: 'video',
+        title: 'Innovation Presentation',
+        description: 'Blockchain Technology for Secure Digital Transactions',
+        url: 'https://drive.google.com/file/d/YOUR_VIDEO_ID_1/view',
+        order: 1
+      },
+      {
+        type: 'video',
+        title: 'Cultural Presentation',
+        description: 'Ubuntu Philosophy & Gender Equality in African Context',
+        url: 'https://drive.google.com/file/d/YOUR_VIDEO_ID_2/view',
+        order: 2
+      },
+      {
+        type: 'video',
+        title: 'Modern Challenges',
+        description: 'Digital Divide Solutions for Rural Kenya',
+        url: 'https://drive.google.com/file/d/YOUR_VIDEO_ID_3/view',
+        order: 3
       }
     ];
 

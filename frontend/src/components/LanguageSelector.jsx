@@ -36,7 +36,7 @@ const LanguageSelector = ({ currentLanguage, onLanguageChange, languages }) => {
   const defaultLanguages = [
     { code: 'en', name: 'English' },
     { code: 'sw', name: 'Kiswahili' },
-    { code: 'indigenous', name: 'Kikuyu' }
+    { code: 'ki', name: 'Kikuyu' }
   ];
 
   const languageOptions = languages || defaultLanguages;

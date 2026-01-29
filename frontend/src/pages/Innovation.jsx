@@ -1,6 +1,5 @@
 import React from 'react';
 import styled from 'styled-components';
-import VideoPlayer from '../components/VideoPlayer';
 
 const ContentContainer = styled.div`
   max-width: 900px;
@@ -64,11 +63,6 @@ const Innovation = () => {
       <div className="container">
         <ContentContainer>
           <h2>Blockchain Technology Innovation</h2>
-          
-          <VideoPlayer 
-            url="/videos/WIN_20260129_13_34_06_Pro.mp4" 
-            title="Innovation Presentation - Blockchain Technology"
-          />
           
           <h3>Revolutionary Distributed Ledger Technology</h3>
           <p>Blockchain represents one of the most significant technological innovations of the 21st century, fundamentally transforming how we approach data storage, transaction processing, and trust establishment in digital systems. This distributed ledger technology creates an immutable, transparent, and decentralized record-keeping system that eliminates the need for traditional intermediaries.</p>
