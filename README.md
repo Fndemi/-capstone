@@ -167,7 +167,7 @@ Create `.env` files for configuration:
 
 **Backend (.env)**
 ```
-MONGODB_URI=mongodb+srv://mongoflo:testing123@cluster0.riveki9.mongodb.net/igs?retryWrites=true&w=majority&appName=Cluster0
+MONGODB_URI=your_mongodb_connection_string
 PORT=3001
 ```
 
