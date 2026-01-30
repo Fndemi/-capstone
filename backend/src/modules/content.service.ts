@@ -142,11 +142,11 @@ Every morning when I wake up at 5:30 am and step into the cool Kenyan air for my
         abstract: 'The inspiring journey of Florence Ndemi, from her childhood in Githunguri Town to her final year at Dedan Kimathi University of Technology, chronicling her growth in faith, technology, and leadership while pursuing her dreams of entrepreneurship and community impact.'
       },
 
-      // Culture - English
+      // Culture - Kikuyu
       {
         type: 'culture',
-        title: 'Ubuntu Philosophy and Gender Equality in Modern Kenya',
-        language: 'en',
+        title: 'Ũhoro wa Mĩtugo na Mĩhĩrĩga ya Andũ',
+        language: 'ki',
         videoDuration: 20,
         content: `# Ubuntu Philosophy and Gender Equality in Modern Kenya
 
@@ -434,11 +434,20 @@ This is the promise of Ubuntu-guided development: a future where technology serv
         abstract: 'An exploration of how Ubuntu philosophy can guide modern approaches to gender equality in Kenya\'s technology sector, emphasizing community-centered solutions and inclusive development.'
       },
 
-      // Challenges - English  
+      // Innovation - Kikuyu
+      {
+        type: 'innovation',
+        title: 'Ũhoro wa Ũtũũgĩrĩri wa Maũndũ Maĩ',
+        language: 'ki',
+        content: 'Kikuyu innovation content...',
+        abstract: 'Innovation content in Kikuyu'
+      },
+      
+      // Challenges - Kikuyu
       {
         type: 'challenges',
-        title: 'Bridging Kenya\'s Digital Divide: Youth Employment Through Technology',
-        language: 'en',
+        title: 'Mĩtũgo ya Gũtũũra Pengo rĩa Dijitari thĩ ya Kenya ya Mĩgũnda',
+        language: 'ki',
         videoDuration: 20,
         content: `# Bridging Kenya's Digital Divide: Youth Employment Through Technology
 

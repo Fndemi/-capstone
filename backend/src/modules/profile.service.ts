@@ -116,7 +116,7 @@ export class ProfileService {
         ],
         language: language
       },
-      indigenous: {
+      ki: {
         fullName: "Florence Ndemi",
         email: "ndemiflorece@gmail.com",
         phone: "+254 799 465 754",

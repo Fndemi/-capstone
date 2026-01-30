@@ -521,7 +521,7 @@ const resumeData = {
       "Nimelenga kuandika msimbo safi, unaoweza kudumishwa, na unaoweza kukua"
     ]
   },
-  indigenous: {
+  ki: {
     fullName: "Florence Ndemi",
     email: "ndemiflorece@gmail.com",
     phone: "+254 799 465 754",
@@ -605,7 +605,7 @@ const Resume = () => {
     const languageNames = {
       en: 'English',
       sw: 'Kiswahili', 
-      indigenous: 'Kikuyu'
+      ki: 'Kikuyu'
     };
     
     const fileName = `Florence_Ndemi_Resume_${languageNames[language]}.${format}`;
